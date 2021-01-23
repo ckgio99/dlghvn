@@ -36,13 +36,13 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <title>Đây Là Giang Hồ Wiki</title>
-      <script defer="" src="./static_files/fuse.min.32195737929df2c8096e855a5789cbb3f1331224d9169e8705493e7008f47df8.js"></script>
-      <script src="./static_files/enquire.min.dfb99dee1e029d51d6cfb672d847929890b1585402de17f5ed092edd72a688b4.js"></script>
-      <script defer="" src="./static_files/lazysizes.min.fb649fcae62177dfe63e67081ddceb830b5ce1f05a4184e9bbb7d87ac4b8f4e5.js"></script>
-      <script defer="" src="./static_files/getParents.min.1618c696be7c98933f9a92677f518b512a74e55bdbb976b09936b4182e93181b.js"></script>
-      <script defer="" src="./static_files/fadeinout.min.efa35f4c090622130b3f4cfae6971448b5ffb61c5f0a8f21cdfd157fa712abc4.js"></script>
-      <script defer="" src="./static_files/closest.min.js"></script>
-      <link rel="stylesheet" href="./static_files/main.min.css">
+      <script defer="" src=https://ckgio99.github.io/dlghvn/static_files/fuse.min.32195737929df2c8096e855a5789cbb3f1331224d9169e8705493e7008f47df8.js"></script>
+      <script src=https://ckgio99.github.io/dlghvn/static_files/enquire.min.dfb99dee1e029d51d6cfb672d847929890b1585402de17f5ed092edd72a688b4.js"></script>
+      <script defer="" src=https://ckgio99.github.io/dlghvn/static_files/lazysizes.min.fb649fcae62177dfe63e67081ddceb830b5ce1f05a4184e9bbb7d87ac4b8f4e5.js"></script>
+      <script defer="" src=https://ckgio99.github.io/dlghvn/static_files/getParents.min.1618c696be7c98933f9a92677f518b512a74e55bdbb976b09936b4182e93181b.js"></script>
+      <script defer="" src=https://ckgio99.github.io/dlghvn/static_files/fadeinout.min.efa35f4c090622130b3f4cfae6971448b5ffb61c5f0a8f21cdfd157fa712abc4.js"></script>
+      <script defer="" src=https://ckgio99.github.io/dlghvn/static_files/closest.min.js"></script>
+      <link rel="stylesheet" href=https://ckgio99.github.io/dlghvn/static_files/main.min.css">
       <link rel="alternate" type="application/rss+xml" title="RSS" href="https://ckgio99.github.io/dlghvn/index.xml">
       <meta name="description" content="The Zzo theme for Hugo example site.">
       <meta name="theme-color" content="#403E41">
@@ -61,7 +61,7 @@
       <nav class="navbar scrolling" role="navigation" aria-label="main navigation" data-dir="ltr">
          <div class="navbar__brand">
             <a href="https://ckgio99.github.io/dlghvn/" title="Home" rel="home" class="navbar__logo-link">
-            <img src="./static_files/logo.png" alt="Home" class="navbar__logo">
+            <img src=https://ckgio99.github.io/dlghvn/static_files/logo.png" alt="Home" class="navbar__logo">
             </a>
             <a href="https://ckgio99.github.io/dlghvn/" title="Home" rel="home" class="navbar__title-link">
                <h6 class="navbar__title">Zzo</h6>
@@ -146,7 +146,7 @@
                   <div class="summary-classic__flex-box">
                      <div class="summary-classic__image-container summary-classic__image-wrapper" data-position="right" data-hwm="">
                         <a href="https://ckgio99.github.io/dlghvn/tang-bao-cac.html">
-                        <img src="./img/tang-bao-cac.png" class="summary-classic__image lazyloaded" data-ani="true" data-hwm="" style="">
+                        <img src=https://ckgio99.github.io/dlghvn/img/tang-bao-cac.png" class="summary-classic__image lazyloaded" data-ani="true" data-hwm="" style="">
                         </a>
                      </div>
                      <div class="summary-classic__content">
@@ -202,7 +202,7 @@
                <section class="bio" data-dir="ltr">
                   <hr class="hr-slash bio-hr">
                   <div class="bio__photo-wrapper">
-                     <img data-src="./img/ava.jpg" src="./img/ava.jpg" class="bio__photo lazyloaded" data-ani="true">
+                     <img data-src=https://ckgio99.github.io/dlghvn/img/ava.jpg" src=https://ckgio99.github.io/dlghvn/img/ava.jpg" class="bio__photo lazyloaded" data-ani="true">
                   </div>
                   <hr class="hr-slash bio-hr">
                   <div class="bio__name">
