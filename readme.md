@@ -159,6 +159,27 @@
                   </div>
                   <hr>
                </article>
+			   
+			   <article class="summary-classic" data-ani="true">
+                  <div class="summary-classic__flex-box">
+                     <div class="summary-classic__image-container summary-classic__image-wrapper" data-position="right" data-hwm="">
+                        <a href="https://ckgio99.github.io/dlghvn/cong-phap-bi-ky.html">
+                        <img src="https://ckgio99.github.io/dlghvn/img/content.png" class="summary-classic__image lazyloaded" data-ani="true" data-hwm="" style="">
+                        </a>
+                     </div>
+                     <div class="summary-classic__content">
+                        <header>
+                           <h5 class="title h5"><a href="https://ckgio99.github.io/dlghvn/cong-phap-bi-ky.html">Công Pháp - Bí Kỹ</a> </h5>
+                        </header>
+                        <div>
+                           <div class="summary-classic__text p2">
+                              Tổng hợp các Công Pháp - Bí Kỹ của tất cả các môn phái.
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <hr>
+               </article>
             </div>
             <div class="search-result" data-display="none">
                <div class="search-result__header">
