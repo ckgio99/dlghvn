@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="vi" dir="ltr">
    <script id="allow-copy_script">(function agent() {
       let unlock = false
@@ -31,7 +30,7 @@
       })
       })()
    </script>
-   <head prefix="og: http://ogp.me/ns#">
+   <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -43,8 +42,6 @@
       <script defer="" src="https://ckgio99.github.io/dlghvn/static_files/fadeinout.min.efa35f4c090622130b3f4cfae6971448b5ffb61c5f0a8f21cdfd157fa712abc4.js"></script>
       <script defer="" src="https://ckgio99.github.io/dlghvn/static_files/closest.min.js"></script>
       <link rel="stylesheet" href="https://ckgio99.github.io/dlghvn/static_files/main.min.css">
-      <link rel="alternate" type="application/rss+xml" title="RSS" href="https://ckgio99.github.io/dlghvn/index.xml">
-      <meta name="description" content="The Zzo theme for Hugo example site.">
       <meta name="theme-color" content="#403E41">
       <meta name="msapplication-navbutton-color" content="#403E41">
       <meta name="apple-mobile-web-app-status-bar-style" content="#403E41">
