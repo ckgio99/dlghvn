@@ -143,7 +143,7 @@
                   <div class="summary-classic__flex-box">
                      <div class="summary-classic__image-container summary-classic__image-wrapper" data-position="right" data-hwm="">
                         <a href="https://ckgio99.github.io/dlghvn/tang-bao-cac.html">
-                        <img src="./img/tang-bao-cac.png" class="summary-classic__image lazyloaded" data-ani="true" data-hwm="" style="">
+                        <img src="https://ckgio99.github.io/dlghvn/img/tang-bao-cac.png" class="summary-classic__image lazyloaded" data-ani="true" data-hwm="" style="">
                         </a>
                      </div>
                      <div class="summary-classic__content">
@@ -199,7 +199,7 @@
                <section class="bio" data-dir="ltr">
                   <hr class="hr-slash bio-hr">
                   <div class="bio__photo-wrapper">
-                     <img data-src="./img/ava.jpg" src="./img/ava.jpg" class="bio__photo lazyloaded" data-ani="true">
+                     <img data-src="https://ckgio99.github.io/dlghvn/img/ava.jpg" src="https://ckgio99.github.io/dlghvn/img/ava.jpg" class="bio__photo lazyloaded" data-ani="true">
                   </div>
                   <hr class="hr-slash bio-hr">
                   <div class="bio__name">
@@ -211,7 +211,7 @@
                </section>
                <hr class="hr-fade sidebar-hr">
          </aside>
-      </main>
+      
       <script>
          var sidebarPosition = JSON.parse("\"right\"");
          
